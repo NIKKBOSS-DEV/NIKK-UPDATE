@@ -1,7 +1,7 @@
 # 👑 NIKK BOSS XIT — Official Updates & Cloud Release Center ⚡
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pozznik/nikk-server/main/banner.jpg" alt="NIKK BOSS Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/NIKKBOSS-DEV/nikk-server/main/banner.jpg" alt="NIKK BOSS Header" width="100%" />
 </p>
 
 <p align="center">
@@ -44,9 +44,9 @@
 
 | Release Tag | App Version | Build Date | Direct Download | Verification / SHA-256 |
 | :---: | :---: | :---: | :---: | :---: |
-| **`v2.1.0`** *(Latest)* | **v2.1.0 (XIT Edition)** | 2026-09-18 | [⬇️ **Download NIKKBOSS.ipa**](https://github.com/pozznik/NIKK-UPDATE/releases/tag/v2.1.0) | `Verified Official` |
-| **`v2.0.5`** | **v2.0.5 (Hotfix)** | 2026-09-17 | [⬇️ **Download IPA**](https://github.com/pozznik/NIKK-UPDATE/releases/tag/v2.0.5) | `Archive` |
-| **`v2.0.0`** | **v2.0.0 (Base Build)** | 2026-09-16 | [⬇️ **Download IPA**](https://github.com/pozznik/NIKK-UPDATE/releases/tag/v2.0.0) | `Archive` |
+| **`v2.1.0`** *(Latest)* | **v2.1.0 (XIT Edition)** | 2026-09-18 | [⬇️ **Download NIKKBOSS.ipa**](https://github.com/NIKKBOSS-DEV/NIKK-UPDATE/releases/tag/v2.1.0) | `Verified Official` |
+| **`v2.0.5`** | **v2.0.5 (Hotfix)** | 2026-09-17 | [⬇️ **Download IPA**](https://github.com/NIKKBOSS-DEV/NIKK-UPDATE/releases/tag/v2.0.5) | `Archive` |
+| **`v2.0.0`** | **v2.0.0 (Base Build)** | 2026-09-16 | [⬇️ **Download IPA**](https://github.com/NIKKBOSS-DEV/NIKK-UPDATE/releases/tag/v2.0.0) | `Archive` |
 
 > 📌 **ចំណាំ**: រាល់ Release Tag ទាំងអស់ត្រូវបានផ្ទៀងផ្ទាត់ដោយ **NIKK BOSS** ផ្ទាល់។ សូមចុចលើ Link Release Tag ខាងលើ ដើម្បីចូលទៅទាញយក File `.ipa` និងមើលកំណត់ហេតុបច្ចុប្បន្នភាព (Changelog)។
 
