@@ -24,7 +24,7 @@
 | **iOS 26.0 – 26.6.1** | ✅ **Full Support** | Compatible via Direct Profile Certificate |
 | **iOS 27.0 (Beta 1 - 4)** | ⚡ **Beta Support** | Compatible with verified builds (24A5355q – 24A5390f) |
 
-> 💡 *គាំទ្រគ្រប់ម៉ូឌែល iPhone និង iPad ចាប់ពី iPhone X រហូតដល់ iPhone 15 / 16 Pro Max ទាំងអស់។*
+> 💡 *គាំទ្រគ្រប់ម៉ូឌែល iPhone និង iPad ចាប់ពី iPhone X រហូតដល់ iPhone 15 / 17 Pro Max ទាំងអស់។*
 
 ---
 
