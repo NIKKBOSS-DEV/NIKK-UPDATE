@@ -40,13 +40,25 @@
 
 ---
 
+## 📥 Official IPA Downloads by Release Tags (ទាញយកកញ្ចប់ IPA តាម Version)
+
+| Release Tag | App Version | Build Date | Direct Download | Verification / SHA-256 |
+| :---: | :---: | :---: | :---: | :---: |
+| **`v2.1.0`** *(Latest)* | **v2.1.0 (XIT Edition)** | 2026-09-18 | [⬇️ **Download NIKKBOSS.ipa**](https://github.com/pozznik/NIKK-UPDATE/releases/tag/v2.1.0) | `Verified Official` |
+| **`v2.0.5`** | **v2.0.5 (Hotfix)** | 2026-09-17 | [⬇️ **Download IPA**](https://github.com/pozznik/NIKK-UPDATE/releases/tag/v2.0.5) | `Archive` |
+| **`v2.0.0`** | **v2.0.0 (Base Build)** | 2026-09-16 | [⬇️ **Download IPA**](https://github.com/pozznik/NIKK-UPDATE/releases/tag/v2.0.0) | `Archive` |
+
+> 📌 **ចំណាំ**: រាល់ Release Tag ទាំងអស់ត្រូវបានផ្ទៀងផ្ទាត់ដោយ **NIKK BOSS** ផ្ទាល់។ សូមចុចលើ Link Release Tag ខាងលើ ដើម្បីចូលទៅទាញយក File `.ipa` និងមើលកំណត់ហេតុបច្ចុប្បន្នភាព (Changelog)។
+
+---
+
 ## 📲 របៀបទាញយក និងដំឡើង IPA (How to Get & Install IPA)
 
-1. **ទាញយកកញ្ចប់កម្មវិធីចុងក្រោយ (Download Latest IPA)**៖
-   - ទាញយក File `.ipa` ចេញពី Release ឬតាមរយៈ Telegram: [t.me/nikk_boss](https://t.me/nikk_boss)
+1. **ទាញយកកញ្ចប់កម្មវិធីតាម Release Tag**៖
+   - ជ្រើសរើស Version ខាងលើ រួចចុច **Download NIKKBOSS.ipa** (ឬទាញយកតាម Telegram: [t.me/nikk_boss](https://t.me/nikk_boss))
 2. **ការដំឡើង (Installation Methods)**៖
-   - ដំឡើងតាម **TrollStore** (សម្រាប់ iOS ដែលគាំទ្រ ដំណើរការមិនបាច់ Revoke)
-   - ឬ Sign តាម **ESign**, **Scarlet**, ឬ **GBox** ជាមួយ Certificate របស់អ្នក
+   - ដំឡើងតាម **TrollStore** (សម្រាប់ iOS 16.0 – 17.0 ដំណើរការមិនបាច់ Revoke)
+   - ឬ Sign តាម **ESign**, **Scarlet**, ឬ **GBox** ជាមួយ Certificate របស់អ្នក (iOS 17.1 – 18.7.1+)
 3. **បើកដំណើរការ (Activate)**៖
    - បើក App រួចបញ្ចូល License Key របស់អ្នកដើម្បីចាប់ផ្តើមប្រើប្រាស់
 4. **ទាញយក Cloud Patches ថ្មីៗ**៖
