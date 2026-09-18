@@ -6,49 +6,63 @@
 
 <p align="center">
   <a href="https://t.me/nikk_boss"><img src="https://img.shields.io/badge/Developer-NIKK%20BOSS-gold?style=for-the-badge&logo=telegram" alt="Developer NIKK BOSS"></a>
-  <a href="https://t.me/nikk_boss"><img src="https://img.shields.io/badge/VIP_Community-t.me%2Fnikk__boss-blue?style=for-the-badge&logo=telegram" alt="Telegram Community"></a>
-  <img src="https://img.shields.io/badge/iOS_Kernel-OPA334-cyan?style=for-the-badge&logo=apple" alt="Kernel OPA334">
-  <img src="https://img.shields.io/badge/Sandbox-BYPASSED-green?style=for-the-badge" alt="Sandbox Bypassed">
+  <a href="https://t.me/nikk_boss"><img src="https://img.shields.io/badge/Official_Telegram-t.me%2Fnikk__boss-blue?style=for-the-badge&logo=telegram" alt="Telegram Community"></a>
+  <img src="https://img.shields.io/badge/iOS_Support-16.0_to_18.7.1-black?style=for-the-badge&logo=apple" alt="iOS Support">
+  <img src="https://img.shields.io/badge/Build_Delivery-DIRECT_IPA-success?style=for-the-badge" alt="Direct IPA">
   <img src="https://img.shields.io/badge/Status-ONLINE-success?style=for-the-badge" alt="Status Online">
 </p>
 
 ---
 
-## 🚀 អំពី NIKK BOSS XIT (About The App)
-**NIKK BOSS XIT** គឺជាប្រព័ន្ធប្រតិបត្តិការកម្រិតទាប (Advanced Low-Level System Suite) សម្រាប់ iOS ដែលត្រូវបានបង្កើតឡើងយ៉ាងពិសេស និងប្រណិតបំផុតដោយ **NIKK BOSS**។ កម្មវិធីនេះផ្តល់ជូននូវសមត្ថភាពគ្រប់គ្រងឯកសារប្រព័ន្ធ, កញ្ចប់ Patch ទំនើប, និងការទាញយក Cloud Patches ពីចម្ងាយដោយស្វ័យប្រវត្តិតាមរយៈបណ្តាញសុវត្ថិភាពខ្ពស់។
+## 📱 iOS Compatibility & Verified Devices (បញ្ជី iOS ដែលគាំទ្រ)
 
-### ✨ មុខងារពិសេសៗ (Key Features)
-- 🔥 **OPA334 Kernel Exploit & Sandbox Escape**: ដំណើរការដោយរលូន និងមានសុវត្ថិភាពខ្ពស់បំផុត
-- ⚡ **1-Click Cloud Patch Installation**: ទាញយក និងដំឡើង Patch ផ្ទាល់ពី Cloud Update ដោយចុចតែម្តង
-- 🛡️ **Military-Grade Key Security**: ប្រព័ន្ធការពារ License Key ជាមួយ Hardware UDID Binding & Anti-Tamper
-- 📡 **Remote Push Notifications & Live Alerts**: ទទួលបានការជូនដំណឹង និង Patch Update ថ្មីៗភ្លាមៗលើអេក្រង់ទូរស័ព្ទ
-- 🎨 **Luxury Cyberpunk OLED Design**: ការរចនាដ៏ប្រណិត រំលេចពន្លឺមាស និង Neon ជាមួយ Live Telemetry Specs
+| iOS Version | Compatibility Status | Recommended Installer |
+| :--- | :---: | :--- |
+| **iOS 16.0 – 16.7.x** | ✅ **Full Support** | TrollStore / ESign / Scarlet / AltStore |
+| **iOS 17.0 – 17.7.x** | ✅ **Full Support** | TrollStore (iOS 17.0) / Enterprise Cert / ESign |
+| **iOS 18.0 – 18.7.1** | ✅ **Full Support** | ESign / GBox / Scarlet / Developer Cert |
+| **iOS 26.0 – 26.6.1** | ✅ **Full Support** | Compatible via Direct Profile Certificate |
+| **iOS 27.0 (Beta 1 - 4)** | ⚡ **Beta Support** | Compatible with verified builds (24A5355q – 24A5390f) |
 
----
-
-## 📲 របៀបដំឡើង និងប្រើប្រាស់ (Installation Guide)
-
-1. **ទាញយកកញ្ចប់កម្មវិធី (Download IPA)**៖
-   - ចូលទៅកាន់ Telegram ផ្លូវការ: [t.me/nikk_boss](https://t.me/nikk_boss)
-   - ដំឡើងតាមរយៈ **TrollStore**, **ESign**, ឬ **Scarlet**
-2. **បញ្ចូល License Key**៖
-   - បើក App ហើយបញ្ចូល License Key របស់អ្នក (User ឬ Admin)
-3. **ទទួលយក Patch ថ្មីៗ (Get New Patches)**៖
-   - ចូលទៅកាន់ Tab **Patches** នឹងឃើញ Section **NIKK CLOUD UPDATES**
-   - ចុច **GET / Install** ដើម្បីទាញយក Patch ថ្មីៗដែល Admin បាន Post ភ្លាមៗ!
+> 💡 *គាំទ្រគ្រប់ម៉ូឌែល iPhone និង iPad ចាប់ពី iPhone X រហូតដល់ iPhone 15 / 16 Pro Max ទាំងអស់។*
 
 ---
 
-## 👑 Credits & Official Channels
+## 🚀 អំពី NIKK BOSS XIT (About The System)
+**NIKK BOSS XIT** គឺជាប្រព័ន្ធប្រតិបត្តិការគ្រប់គ្រងឯកសារប្រព័ន្ធកម្រិតខ្ពស់ (Advanced System Suite) សម្រាប់ iOS ដែលត្រូវបានរៀបចំ និងអភិវឌ្ឍឡើងដោយ **NIKK BOSS**។ កម្មវិធីនេះផ្តល់ជូននូវបទពិសោធន៍ដ៏រលូន សុវត្ថិភាពខ្ពស់ និងការចែករំលែកកញ្ចប់ Patch ពីចម្ងាយយ៉ាងរហ័សទាន់ចិត្ត។
 
-| Role | Name | Link |
+### ✨ មុខងារសំខាន់ៗ (Key Highlights)
+- 📦 **Direct Cloud IPA Delivery**: ទាញយកកញ្ចប់កម្មវិធី IPA ថ្មីៗដោយផ្ទាល់បានគ្រប់ពេលវេលា
+- ⚡ **1-Click Cloud Patch Installation**: ដំឡើងកញ្ចប់ Patch ពីចម្ងាយដោយគ្រាន់តែចុចមួយដង
+- 🛡️ **Military-Grade Hardware Security**: ការពារគណនី និង License Key ជាមួយ Hardware UDID Binding ដ៏រឹងមាំ
+- 📡 **Live Broadcast & Push Notifications**: ទទួលបានដំណឹង Update ថ្មីៗភ្លាមៗលើអេក្រង់ទូរស័ព្ទ
+- 🎨 **Luxury OLED VIP Design**: រចនាបថប្រណិត រំលេចពន្លឺមាស Cyberpunk ជាមួយ Live Device Specs
+
+---
+
+## 📲 របៀបទាញយក និងដំឡើង IPA (How to Get & Install IPA)
+
+1. **ទាញយកកញ្ចប់កម្មវិធីចុងក្រោយ (Download Latest IPA)**៖
+   - ទាញយក File `.ipa` ចេញពី Release ឬតាមរយៈ Telegram: [t.me/nikk_boss](https://t.me/nikk_boss)
+2. **ការដំឡើង (Installation Methods)**៖
+   - ដំឡើងតាម **TrollStore** (សម្រាប់ iOS ដែលគាំទ្រ ដំណើរការមិនបាច់ Revoke)
+   - ឬ Sign តាម **ESign**, **Scarlet**, ឬ **GBox** ជាមួយ Certificate របស់អ្នក
+3. **បើកដំណើរការ (Activate)**៖
+   - បើក App រួចបញ្ចូល License Key របស់អ្នកដើម្បីចាប់ផ្តើមប្រើប្រាស់
+4. **ទាញយក Cloud Patches ថ្មីៗ**៖
+   - ចូលទៅកាន់ Tab **Patches** នឹងឃើញ Section **NIKK CLOUD UPDATES** ចុច **GET** ដើម្បី Update ភ្លាមៗ!
+
+---
+
+## 👑 Credits & Developer Information
+
+| Role | Name | Official Contact |
 | :--- | :--- | :--- |
 | **Lead Developer** | **NIKK BOSS** | [Telegram: @nikk_boss](https://t.me/nikk_boss) |
-| **Official Release Channel** | **NIKK BOSS CHANNEL** | [Join Telegram Channel](https://t.me/nikk_boss) |
-| **Kernel / Exploit Research** | **OPA334 / Core Research** | Verified iOS 16 - 18+ |
+| **Official Updates & Releases** | **NIKK BOSS CHANNEL** | [Join Telegram Updates](https://t.me/nikk_boss) |
 
 ---
 
 <p align="center">
-  <sub>🛡️ Copyright © 2026 <b>NIKK BOSS</b>. All Rights Reserved. Built with Advanced Cryptographic Security.</sub>
+  <sub>🛡️ Copyright © 2026 <b>NIKK BOSS</b>. All Rights Reserved. Built with Ultimate Cryptographic Protection.</sub>
 </p>
